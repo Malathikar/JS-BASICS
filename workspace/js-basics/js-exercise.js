@@ -12,6 +12,7 @@ console.log('using regex method = ', sen.match(regex).length)
 //largest numer fo two//
 
 var a,b;
+var a2=true 
 function compare(a,b)
 {
 if(a<b)

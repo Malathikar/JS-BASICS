@@ -1,0 +1,123 @@
+{
+    "state":
+    [
+  
+    {
+        "statename":"colorado",
+        "capital":"denver",
+        "governor":"jared polis",
+        "land":"104094 sq mi",
+        "website":"www.colorada.gov",
+        "timezone":"MST",
+        "population":5773714,
+        "Popularcities":["Boulder","Aurora","Aspen","Greeley"],
+        "touristplaces":["Vail","Loiveland","Durango","Colorado springs"]
+    },
+   {
+        "statename" :"texas",
+        "capital":"Austin",
+        "governor":"Greg Abbott",
+        "land":"268596 sq mi",
+        "website":"www.texas.gov",
+        "timezone":"MST and CST",
+        "population":29145505,
+        "Popularcities":["Houston","Dallas","San Antonio","EI Paso"],
+        "touristplaces":["The Alamo","San Antonio River walk","Space Center","Big Bend National Park"]
+    },
+    {
+        "statename" :"New York",
+        "capital":"Albany",
+        "governor":"Kathy Hochul",
+        "land":"47126 sq mi",
+        "website":"www.ny.gov",
+        "timezone":"EST",
+        "population":20215751,
+        "Popularcities":["New York","Buffalo","Lake George","Hempstead"],
+        "touristplaces":["Central park","Statue of Liberty","Empire state","Nigara falls"]
+    },
+   
+    {
+        "statename" :"Californa",
+        "capital":"Sacramento",
+        "governor":"Gavin Newsom",
+        "land":"155959sq mi",
+        "website":"www.ca.gov",
+        "timezone":"PST",
+        "population":39185605,
+        "Popularcities":["Los Angeles","San Diego","San francisco","Santa Barbara"],
+        "touristplaces":["Yosemite National Park","Disney Land","Golden Gate","Hoover Dam"]
+    },
+    {
+        "statename" :"Washington ",
+        "capital":"Olympia",
+        "governor":"Jay Inslee",
+        "land":"66544 sq mi",
+        "website":"www.wa.gov",
+        "timezone":"PST",
+        "population":7887965,
+        "Popularcities":["Seattle","OLympia","Tacoma","Bellingham"],
+        "touristplaces":["Space Needle","Olympic National Park","riverfront Park","Mount Saint Helens"]
+    },
+    {
+        "statename" :"Florida",
+        "capital":"Tallahasssee",
+        "governor":"Ron DeSantis",
+        "land":"53625sq mi",
+        "website":"www.florida.com",
+        "timezone":"EST AND CST",
+        "population":21538187,
+        "Popularcities":["Tallahassee","Orlando","Miami","Tampa"],
+        "touristplaces":["Seaworld Orlando","WaltDisney","Castillo de san Macros National Park","Siesta Key Beach"]
+    },
+
+    {
+        "statename" :"Arizona",
+        "capital":"Phoenix",
+        "governor":"Doug Ducey",
+        "land":"113990 sq mi",
+        "website":"www.az.gov",
+        "timezone":"MST",
+        "population":7151502,
+        "Popularcities":["Phoenix","Tucson","Scottsdale","Mesa"],
+        "touristplaces":["Grand Canhyon NAtional Park","Horseshoe Bend","Saguaro National Park","Monument Valley"]
+    },
+
+    {
+        "statename" :"New Jersey",
+        "capital":"Trenton",
+        "governor":"Phil Murphy",
+        "land":"7354.22 sq mi",
+        "website":"www.nj.gov",
+        "timezone":"EST",
+        "population":9288994,
+        "Popularcities":["Jersey City","Trenton","Newark","Atlantic City"],
+        "touristplaces":["Adventure Aquarium","Liberty State Park","Six Flags Great Adventure","Cape May"]
+    },
+
+    {
+        "statename" :"Minnesota",
+        "capital":"Saint Paul",
+        "governor":"Tim Walz",
+        "land":"79626sq mi",
+        "website":"www.mn.gov",
+        "timezone":"CST",
+        "population":5707390,
+        "Popularcities":["Minneapolis","Saint Paul","Edina","Eden Prairire"],
+        "touristplaces":["Mall of America","como Park Zoo","Minnehaha Falls","Minnesota zoo"]
+    },
+    {
+        "statename" :"Delaware",
+        "capital":"Dover",
+        "governor":"John Carney",
+        "land":"2489 sq mi",
+        "website":"www.delaware.gov",
+        "timezone":"EST",
+        "population":1003384,
+        "Popularcities":["Wyoming","Wilmington","georgetown","claymont"],
+        "touristplaces":["Hagley Museum","Funland","Winterthur Museum","Brandywine Creek State Park"]
+    }
+    ]
+}
+    
+
+    
